@@ -1,0 +1,13 @@
+C:\Projects\MeterReadingApi\MeterReading.Service\bin\Debug\netcoreapp3.1\MeterReading.Service.deps.json
+C:\Projects\MeterReadingApi\MeterReading.Service\bin\Debug\netcoreapp3.1\MeterReading.Service.dll
+C:\Projects\MeterReadingApi\MeterReading.Service\bin\Debug\netcoreapp3.1\MeterReading.Service.pdb
+C:\Projects\MeterReadingApi\MeterReading.Service\bin\Debug\netcoreapp3.1\MeterReading.Data.dll
+C:\Projects\MeterReadingApi\MeterReading.Service\bin\Debug\netcoreapp3.1\MeterReading.Data.pdb
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.csproj.AssemblyReference.cache
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.AssemblyInfoInputs.cache
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.AssemblyInfo.cs
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.csproj.CoreCompileInputs.cache
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.csproj.CopyComplete
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.dll
+C:\Projects\MeterReadingApi\MeterReading.Service\obj\Debug\netcoreapp3.1\MeterReading.Service.pdb

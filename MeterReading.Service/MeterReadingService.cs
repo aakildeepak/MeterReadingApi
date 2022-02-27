@@ -28,7 +28,7 @@ namespace MeterReading.Service
         public async Task<UploadResponse> UploadCsv(MemoryStream memoryStream)
         {
             int successCount = 0;
-            var regex = new Regex(@"\d{5}");//Rule
+            var regex = new Regex(@"^[0-9]{5}$");
 
             try
             {
@@ -42,7 +42,7 @@ namespace MeterReading.Service
 
                     Match match = regex.Match(item.MeterReadingValue);
 
-                    if (validDate && validReadingValue && match.Success)
+                    if (validDate && validReadingValue && readingValue >= 0 && match.Success)
                     {
                         var userAccount = await GetUserAccount(accountId);
 
